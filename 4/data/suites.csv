@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 24 02:08:02 GMT 2023","Mon Apr 24 02:08:03 GMT 2023","958","","Login","","","","com sucesso",""
+"passed","Mon Apr 24 02:07:57 GMT 2023","Mon Apr 24 02:07:59 GMT 2023","1458","","Login","","","","usuário obrigatório",""
+"passed","Mon Apr 24 02:07:59 GMT 2023","Mon Apr 24 02:08:00 GMT 2023","859","","Login","","","","senha obrigatória",""
+"passed","Mon Apr 24 02:08:00 GMT 2023","Mon Apr 24 02:08:01 GMT 2023","919","","Login","","","","usuário não existe",""
+"passed","Mon Apr 24 02:08:01 GMT 2023","Mon Apr 24 02:08:02 GMT 2023","911","","Login","","","","senha incorreta",""
